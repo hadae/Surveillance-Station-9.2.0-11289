@@ -69,7 +69,7 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 ```
 
 ---
-### 恢Remove license
+### Remove license
 - Script:
 ```
 bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/license/remove_license)
